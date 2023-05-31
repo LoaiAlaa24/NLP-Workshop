@@ -11,7 +11,7 @@ The workshop includes Jupyter notebooks covering the following topics:
 3. GPT: Generative Pre-trained Transformer
 4. T5: Text-To-Text Transfer Transformer
 
-## Reference Papers
+## Reference Papers / Courses
 
 The following reference papers are recommended for further reading:
 
